@@ -79,7 +79,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://twitter.com/Captinchaos01/photo
+img_cdn: https://pbs.twimg.com/profile_images/516114170714943488/NVAXmym-_400x400.jpeg
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
