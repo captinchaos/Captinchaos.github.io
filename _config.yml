@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: us/chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -33,7 +33,7 @@ github:
   username: Captinchaos             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Captinchaos            # change to your twitter username
 
 social:
   # Change to your full name.
