@@ -16,7 +16,7 @@
   noblank: true
 -
   type: youtube
-  icon: 'fas fa-youtube'
+  icon: 'fas fa-brands fa-square-youtube'
   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
