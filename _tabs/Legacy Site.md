@@ -2,5 +2,5 @@
 layout: Legacy Site
 icon: fas fa-tag
 order: 5
-<a href="http://www.captinchaos.com"Captinchaos</a>
+url: "http://www.captinchaos.com"
 ---
