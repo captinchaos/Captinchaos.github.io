@@ -11,15 +11,15 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
--
   type: youtube
   icon: 'fas fa-brands fa-square-youtube'
-  noblank: true
+-
+
 
 # Uncomment and complete the url below to enable more contact options
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
 # -
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
