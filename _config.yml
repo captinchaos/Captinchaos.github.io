@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: us/chicago
+timezone: US/Central
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -79,7 +79,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://pbs.twimg.com/profile_images/516114170714943488/NVAXmym-_400x400.jpeg
+img_cdn: //_data\pngegg.png
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
