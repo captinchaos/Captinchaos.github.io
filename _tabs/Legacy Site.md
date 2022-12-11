@@ -2,5 +2,5 @@
 layout: Legacy Site
 icon: fas fa-tag
 order: 5
-permalink: http://www.captinchoas.com/
+permalink: rel="external" Captinchaos href="http://www.captinchaos.com"
 ---
