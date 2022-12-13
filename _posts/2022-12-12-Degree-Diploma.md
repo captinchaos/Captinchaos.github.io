@@ -9,10 +9,6 @@ tags: [degree,diploma]
 
 ## Rose State College
 
-[Associate in Applied Science in Computer Information Technology](/PDF-Doc-Folder/AAS-DBDEV-Degree.pdf)
-
-[Associate in Applied Science in Networking/CyberSecurity](/PDF-Doc-Folder/AAS-NET-CYB-Degree.pdf)
-
 ## Little Axe High School
 
 This is a place holder
