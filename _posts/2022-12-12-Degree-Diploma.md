@@ -9,10 +9,6 @@ tags: [associate,diploma]
 
 ## Rose State College
 
-Associate in Applied Science
-
-Computer Information Technology
-
 ## Little Axe High School
 
 This is a place holder for Diploma
