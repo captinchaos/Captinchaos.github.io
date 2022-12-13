@@ -2,7 +2,7 @@
 # title: Certifications
 date: 2022-12-11
 categories: [Certifications]
-tags: [mechanical,drafter,computer,electronics]
+tags: [degree,diploma]
 ---
 
 # Degrees and Diploma
