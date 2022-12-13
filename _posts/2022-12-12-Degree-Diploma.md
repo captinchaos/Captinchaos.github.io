@@ -11,7 +11,7 @@ tags: [degree,diploma]
 
 Associate in Applied Science
 
-[Computer Information Technology](//PDF-Doc-Folder/AAS-DBDEV-Degree.pdf)
+Computer Information Technology
 
 ## Little Axe High School
 
