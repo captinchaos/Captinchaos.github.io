@@ -10,6 +10,7 @@ tags: [degree,diploma]
 ## Rose State College
 
 Associate in Applied Science
+
 [Computer Information Technology](/PDF-Doc-Folder/AAS-DBDEV-Degree.pdf)
 
 ## Little Axe High School
