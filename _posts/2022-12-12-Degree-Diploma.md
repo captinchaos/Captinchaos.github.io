@@ -2,7 +2,7 @@
 # title: Certifications
 date: 2022-12-13
 categories: [Certifications]
-tags: [degree,diploma]
+tags: [associate,diploma]
 ---
 
 # Degrees and Diploma
@@ -15,4 +15,4 @@ Computer Information Technology
 
 ## Little Axe High School
 
-This is a place holder
+This is a place holder for Diploma
