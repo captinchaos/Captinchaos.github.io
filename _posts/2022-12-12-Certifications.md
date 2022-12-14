@@ -6,15 +6,31 @@ tags: [certificate,diploma,degree]
 
 ---
 
-## Mid-America Vo-Tech
+## <img title="" src="https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/299844540_460890496046642_4444153164892251865_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=c6021c&_nc_ohc=n_T-lsV0wdoAX-uxTkt&_nc_ht=scontent-atl3-2.xx&oh=00_AfDgpa02Dzl9J_f39-o8ob_X-mv8jLt2ec60WviAY_fsCg&oe=639DACC7" alt="" width="50" data-align="inline"> [Mid-America Technology Center](https://www.matech.edu/)
 
-[Computer Electronics](/PDF-Doc-Folder/midamericacert.pdf)
+[Address](https://www.google.com/maps/place/Mid-America+Technology+Center/@34.9125261,-97.3640634,15z/data=!4m2!3m1!1s0x0:0x86c79c024d2dd493?sa=X&ved=2ahUKEwjrva2ij_j7AhXKmmoFHTzuANQQ_BJ6BAhlEAg): 27438 OK-59, Wayne, OK 73095
 
-## Guthrie Job Corp
+[Phone](https://www.google.com/search?client=firefox-b-1-d&q=mid-america+technology+center+phone&ludocid=9711902655146480787&sa=X&ved=2ahUKEwjrva2ij_j7AhXKmmoFHTzuANQQ6BN6BAhUEAI): (405) 449-3391
 
-[Mechincal Drafting](/PDF-Doc-Folder/draftingcert.pdf)
+| Certificate                                                |
+| ---------------------------------------------------------- |
+| [Computer Electronics](/PDF-Doc-Folder/midamericacert.pdf) |
 
-## Rose State College
+## <img title="" src="https://s3-us-west-2.amazonaws.com/jobcorps.gov/logo.png" alt="" width="50" data-align="inline"> [Guthrie Job Corp](https://guthrie.jobcorps.gov/)
+
+[Address](https://www.google.com/search?client=firefox-b-1-d&q=guthrie+job+corps+center+address&ludocid=11534168790417332603&sa=X&ved=2ahUKEwjL94bmj_j7AhUmlGoFHVqsAoQQ6BN6BAhcEAI): 3106 W University Ave, Guthrie, OK 73044
+
+[Phone](https://www.google.com/search?client=firefox-b-1-d&q=guthrie+job+corps+center+phone&ludocid=11534168790417332603&sa=X&ved=2ahUKEwjL94bmj_j7AhUmlGoFHVqsAoQQ6BN6BAhWEAI): (405) 282-9930
+
+| Certificate                                            |
+| ------------------------------------------------------ |
+| [Mechincal Drafting](/PDF-Doc-Folder/draftingcert.pdf) |
+
+## <img title="" src="https://pbs.twimg.com/profile_images/1450137854089351170/KW-4qgjv_400x400.jpg" alt="" width="50"> [Rose State College](https://www.rose.edu/)
+
+[Address](https://www.google.com/maps/place/Rose+State%2FMidwest+City+College/@35.4446054,-97.4137767,15z/data=!4m2!3m1!1s0x0:0xead205e725257a1d?sa=X&ved=2ahUKEwjTyrqajfj7AhUClmoFHecEBA0Q_BJ6BAhVEAg): 6420 SE 15th St, Midwest City, OK 73110
+
+[Phone](https://www.google.com/search?client=firefox-b-1-d&sa=X&biw=1193&bih=1140&q=rose+state+college+phone&ludocid=16920593240303172125&ved=2ahUKEwjTyrqajfj7AhUClmoFHecEBA0Q6BN6BAhPEAI): (405) 733-7673
 
 | Degree                                                   | Certificate                                   | Award                                                 |
 | -------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------- |
