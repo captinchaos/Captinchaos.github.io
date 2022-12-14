@@ -6,7 +6,7 @@ tags: [certificate,diploma,degree]
 
 ---
 
-The documentation folder is a collection of certificates, degrees, diplomas, and awards that I have gathered over the years.\
+The documentation folder is a collection of certificates, degrees, diplomas, and awards that I have gathered over the years.                                          
 
 ## [Mid-America Technology Center](https://www.matech.edu/)
 
