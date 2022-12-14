@@ -6,9 +6,9 @@ tags: [certificate,diploma,degree]
 
 ---
 
+The documentation folder is a collection of certificates, degrees, diplomas, and awards that I have gathered over the years.
 
-
-
+## [Mid-America Technology Center](https://www.matech.edu/)
 
 [Address](https://www.google.com/maps/place/Mid-America+Technology+Center/@34.9125261,-97.3640634,15z/data=!4m2!3m1!1s0x0:0x86c79c024d2dd493?sa=X&ved=2ahUKEwjrva2ij_j7AhXKmmoFHTzuANQQ_BJ6BAhlEAg): 27438 OK-59, Wayne, OK 73095
 
